@@ -1,0 +1,6 @@
+So your weather is not working
+
+Install proxycap and fiddler (http://www.proxycap.com/). Restart is necessary
+
+Load machine.prs rule file in proxycap
+
