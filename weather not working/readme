@@ -4,3 +4,4 @@ Install proxycap and fiddler (http://www.proxycap.com/). Restart is necessary
 
 Load machine.prs rule file in proxycap
 
+Run and set startup entry for "C:\Program Files (x86)\Fiddler2\Fiddler.exe" -noversioncheck -noattach -quiet
