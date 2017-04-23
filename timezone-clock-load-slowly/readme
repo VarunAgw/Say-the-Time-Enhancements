@@ -1,0 +1,8 @@
+Open notepad as admin and open C:\Windows\System32\drivers\etc\hosts
+
+Create rule
+127.0.0.1 www.saythetime.com
+
+create an http server and create a virtual host for www.saythetime.com
+
+Copy .htaccess, db.json, timezone.php in its path
